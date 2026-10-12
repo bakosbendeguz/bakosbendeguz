@@ -56,4 +56,4 @@ That experience shaped how I approach development today:
 
 ## Contact
 
-* 📫 \[bakos.bendeguz@gmail.com](mailto:bakos.bendeguz@gmail.com)
+📫 **Email:** <bakos.bendeguz@gmail.com>
